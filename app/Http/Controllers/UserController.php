@@ -8,7 +8,6 @@ class UserController extends Controller{
 
     public function listUser(){
         echo "<h1>Listagem de Usuário</h1>";
-        echo "Teste";  
     }
 }
 
